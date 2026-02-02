@@ -9,7 +9,7 @@ This project analyses the recovery of Great Britain's rail network following the
 ## How to Run
 1. Clone this repository.
 2. Open UK_Rail_Recovery_Analysis.R.
-3. Ensure the `data/ folder is in your working directory.
+3. Ensure the data folder is in your working directory.
 4. Run the script to generate Figures 1-4.
 
 ## Dependencies
